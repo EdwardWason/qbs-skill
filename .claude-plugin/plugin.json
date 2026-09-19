@@ -1,0 +1,11 @@
+{
+  "name": "qbs-skill",
+  "version": "1.0.0",
+  "description": "拷问书籍方法论：把卡住的问题经「拷问收敛→找书→完整读章→三重验证蒸馏→合成Skill→真实试跑」六阶段，产出有书籍出处、可验收的Skill。",
+  "skills": [
+    {
+      "name": "qbs-skill",
+      "path": "."
+    }
+  ]
+}
