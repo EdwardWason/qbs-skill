@@ -1,0 +1,25 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 平台自动生成
+.clawhub/
+.skillhub-cache/
+
+# 本地凭证
+config.local.json
+config.local.*.json
+.env
+.env.local
+
+# 临时脚本
+_*.py
+_*.ps1
+_*.sh
+
+# 日志
+*.log
+
+# 运行产物（不入库）
+qbs-runs/
